@@ -1,4 +1,4 @@
-# rodando local 
+# rodando local | parDO
 import apache_beam as beam
 
 p1 = beam.Pipeline()

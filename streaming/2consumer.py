@@ -1,7 +1,6 @@
 # consumer 
 # streaming 1
 
-
 import csv
 import time
 from google.cloud import pubsub_v1
