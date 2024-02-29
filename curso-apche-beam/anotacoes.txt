@@ -1,5 +1,0 @@
-criar 4 folders:
-- entrada
-- saída 
-- temp 
-- template
